@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.learnku.com/uploads/images/201902/27/1/nTouKHC0I4.png!small"></p>
+<p align="center"><img src="https://cdn.learnku.com/uploads/images/201902/27/1/nTouKHC0I4.png!large"></p>
 
 
 ## Golang
